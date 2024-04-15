@@ -1,0 +1,18 @@
+@import "utf-8";
+
+body{
+    background-color: aliceblue;
+}
+
+#par{
+    color:blue;
+    font-size: 16pt;
+    font-family:Arial;
+}
+
+
+#impar{
+    color:red;
+    font-size: 12pt;
+    font-family:Arial;
+}
